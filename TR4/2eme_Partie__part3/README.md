@@ -1,27 +1,13 @@
-# 2emePartiePart3
+# 2eme Partie -> Part3
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
+add of dashboard:
 
-## Development server
+![Capture d'écran 2024-06-21 191011](https://github.com/a-alhaouil/TP_SD/assets/152272492/f6882bd0-3e5c-4c1b-9c0d-5c971584417d)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+app-errors for generate errors:
 
-## Code scaffolding
+![Capture d'écran 2024-06-21 194330](https://github.com/a-alhaouil/TP_SD/assets/152272492/76bd7a0b-4f68-470e-9dbd-98be1e53f079)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+results:
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+![Capture d'écran 2024-06-21 204913](https://github.com/a-alhaouil/TP_SD/assets/152272492/3811f201-2e84-4335-9fbf-328d778f7529)
