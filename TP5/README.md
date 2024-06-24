@@ -2,7 +2,7 @@
 ### 1. Créer un Web service qui permet de : • Convertir un montant de l’euro en DH
     • Consulter un Compte
 
-    ![image](https://github.com/a-alhaouil/TP_SD/assets/152272492/2a73339d-111d-4fa5-bcc3-c9be7f393668)
+![image](https://github.com/a-alhaouil/TP_SD/assets/152272492/2a73339d-111d-4fa5-bcc3-c9be7f393668)
 
     • Consulter une Liste de comptes
     
