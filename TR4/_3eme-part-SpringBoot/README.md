@@ -71,18 +71,18 @@
 
     Authentication interface for user1:
     
-    ![Capture d'écran 2024-06-24 065521](https://github.com/a-alhaouil/TP_SD/assets/152272492/80420d9a-a80d-4898-86a4-3339a94b7cda)
-    ![Capture d'écran 2024-06-24 065528](https://github.com/a-alhaouil/TP_SD/assets/152272492/d7421972-a96f-4761-be63-429abe71c8ba)
+![Capture d'écran 2024-06-24 065521](https://github.com/a-alhaouil/TP_SD/assets/152272492/80420d9a-a80d-4898-86a4-3339a94b7cda)
+![Capture d'écran 2024-06-24 065528](https://github.com/a-alhaouil/TP_SD/assets/152272492/d7421972-a96f-4761-be63-429abe71c8ba)
 
     Authentication interface for admin:
     
-    ![Capture d'écran 2024-06-24 065545](https://github.com/a-alhaouil/TP_SD/assets/152272492/2a64887b-70a8-4ba1-ac2e-b999fdd2011e)
+![Capture d'écran 2024-06-24 065545](https://github.com/a-alhaouil/TP_SD/assets/152272492/2a64887b-70a8-4ba1-ac2e-b999fdd2011e)
 
-    ![Capture d'écran 2024-06-24 065539](https://github.com/a-alhaouil/TP_SD/assets/152272492/cb6612d8-18b2-4147-a8d3-c488b44a24f0)
+![Capture d'écran 2024-06-24 065539](https://github.com/a-alhaouil/TP_SD/assets/152272492/cb6612d8-18b2-4147-a8d3-c488b44a24f0)
 
     final interface with paginator and sort:
 
-    ![Capture d'écran 2024-06-24 065759](https://github.com/a-alhaouil/TP_SD/assets/152272492/3bd7fe1a-95f4-47b1-9aab-5741796408ff)
+![Capture d'écran 2024-06-24 065759](https://github.com/a-alhaouil/TP_SD/assets/152272492/3bd7fe1a-95f4-47b1-9aab-5741796408ff)
 
 
 
