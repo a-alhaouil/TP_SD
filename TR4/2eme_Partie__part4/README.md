@@ -1,27 +1,39 @@
-# 2emePartiePart3
+# 2eme Partie -> Part3
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
+## Deuxième Partie :
+### Créer une application web Angular qui permet de gérer des produits avec un backend basé sur Json-server
+#### Part 4- https://www.youtube.com/watch?v=ZWQtLaRM49o&authuser=0
+login interface:
 
-## Development server
+![Capture d'écran 2024-06-24 080601](https://github.com/a-alhaouil/TP_SD/assets/152272492/a78b5e5c-8c0c-4fb7-a149-49156cfe82e3)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+bad credentirels:
 
-## Code scaffolding
+![Capture d'écran 2024-06-24 080543](https://github.com/a-alhaouil/TP_SD/assets/152272492/04abea92-7672-4090-8d2d-4ae888e321ae)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+user view:
 
-## Build
+![Capture d'écran 2024-06-24 080928](https://github.com/a-alhaouil/TP_SD/assets/152272492/d48e52c8-14d4-436f-a255-1e0e47a5aa53)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+when a simple user tries to add a new product:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Capture d'écran 2024-06-24 080833](https://github.com/a-alhaouil/TP_SD/assets/152272492/83724db9-b450-47c6-87a2-9a9ff88fe600)
 
-## Running end-to-end tests
+now, admin view:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+![Capture d'écran 2024-06-24 081116](https://github.com/a-alhaouil/TP_SD/assets/152272492/5ae405b3-af68-4b3c-a01e-c3013ded7392)
 
-## Further help
+for delete:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+![Capture d'écran 2024-06-24 081139](https://github.com/a-alhaouil/TP_SD/assets/152272492/e5999b5f-2793-4e54-8fa0-c6edc569c966)
+
+for edit :
+
+![Capture d'écran 2024-06-24 081214](https://github.com/a-alhaouil/TP_SD/assets/152272492/8ee9dd9c-2f43-4121-ba93-d7981112ed03)
+
+for add new product:
+
+![image](https://github.com/a-alhaouil/TP_SD/assets/152272492/dc4d8b9c-bdae-482b-b4df-2ec24a321d23)
+
+
