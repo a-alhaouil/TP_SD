@@ -1,4 +1,11 @@
+## Deuxième partie : Développer une architecture micro-service :
+### Objectif :
+#### Créer une application basée sur les micro-services qui permet des gérer des clients et des comptes bancaire. chaque compte appartient à un client.
+#### Travail à faire :
+##### 1. Créer le micro-service Discovery Service
+Vidéos :
 
+1. https://www.youtube.com/watch?v=BqNZJwCvnAE&authuser=0
 
 "localhost:8081/customers":
 
