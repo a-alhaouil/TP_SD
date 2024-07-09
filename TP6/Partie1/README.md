@@ -17,3 +17,22 @@ H2 database for account service:
 ![Capture d'écran 2024-07-09 002415](https://github.com/a-alhaouil/TP_SD/assets/152272492/aab10866-c5cb-4a6d-b5e8-10788fdad538)
 
 
+swagger-ui for account-service:
+
+![Capture d'écran 2024-07-09 133337](https://github.com/a-alhaouil/TP_SD/assets/152272492/17460704-896e-4062-a704-ff1b9aa5e96e)
+
+for id edcb91fa-56e0-484a-8fdb-4bd508519df8
+
+![Capture d'écran 2024-07-09 133448](https://github.com/a-alhaouil/TP_SD/assets/152272492/2db4bad0-1594-45c9-9c59-382e4186e032)
+
+swagger-ui for cutomer-service:
+
+![Capture d'écran 2024-07-09 140600](https://github.com/a-alhaouil/TP_SD/assets/152272492/00efb2aa-c232-4e70-a71d-7990416c2b96)
+
+use of post methode for add a customer:(@RequestMapping("/api"))
+
+![Capture d'écran 2024-07-09 140938](https://github.com/a-alhaouil/TP_SD/assets/152272492/27b2bbe2-af85-4d15-bbe9-703f04d0dc72)
+
+![Capture d'écran 2024-07-09 141042](https://github.com/a-alhaouil/TP_SD/assets/152272492/444c6f5d-6437-42d5-8346-6e940eb4ff5e)
+
+
