@@ -21,3 +21,14 @@ account-rest-controller
 "http://localhost:8081/bankAccounts?projection=p1"
 
 ![Capture d'écran 2024-07-09 191744](https://github.com/a-alhaouil/TP_SD/assets/152272492/5386fa86-9c4e-4a27-baf6-78ceb1e60ba4)
+
+"http://localhost:8081/bankAccounts/search/byType?t=CURRENT_ACCOUNT"
+
+![Capture d'écran 2024-07-09 192958](https://github.com/a-alhaouil/TP_SD/assets/152272492/7f59db7c-b43d-4875-880d-517795a69009)
+
+Post Method with swagger-ui
+![Capture d'écran 2024-07-09 194051](https://github.com/a-alhaouil/TP_SD/assets/152272492/962a9aba-b3a9-4af3-bb0d-99771d1da3ec)
+
+![image](https://github.com/a-alhaouil/TP_SD/assets/152272492/982cad9d-befe-48a0-9100-34907c7ba2cd)
+
+
